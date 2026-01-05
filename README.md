@@ -1,8 +1,6 @@
 # kopineko - iOS Coffee Ordering AppiOS Coffee Ordering App
 Project Workshop Swift BNCC
 
-# KopiNeko
-
 KopiNeko is a lightweight iOS application built with Swift that simulates a coffee ordering experience.  
 The project emphasizes simplicity, clarity, and a natural mobile flow using native iOS components.
 
